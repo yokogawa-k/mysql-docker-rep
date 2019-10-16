@@ -23,4 +23,4 @@ make を実行すると help が表示されるのでそちらをご覧くださ
 
 ## その他
 
-gitd は ON になっています。外したい場合は `docker-compose-rep-no-gtid.yml` を利用指定ください
+gitd は ON になっています。gtid を外したい場合は `docker-compose-rep-no-gtid.yml` を利用してください
